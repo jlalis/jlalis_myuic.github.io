@@ -1,2 +1,2 @@
-# jlalis_myuic.github.io
+# jlalismyuic.github.io
 This is my static web site
